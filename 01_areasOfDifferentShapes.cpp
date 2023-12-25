@@ -1,9 +1,8 @@
-//To Do :
+//  To Do :
 //  Back function...
 //  Exit function...
 //  repeat on invalid option...
-// withou goto
-
+//  Done in Advanced Version
 #include <iostream>
 #include <cmath>
 using namespace std;
